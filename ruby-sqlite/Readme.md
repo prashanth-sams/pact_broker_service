@@ -1,4 +1,4 @@
-# Ruby SQlite
+# Ruby SQLite
 
 ```
 bundle install
