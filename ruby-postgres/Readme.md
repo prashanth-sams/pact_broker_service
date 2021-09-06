@@ -1,4 +1,4 @@
-# Ruby PostgresSQL
+# Ruby PostgreSQL
 
 ```
 brew install postgresql
@@ -7,7 +7,7 @@ bundle install
 bundle exec rackup
 ```
 
-#### prerequisites
+### Prerequisites
 
 ```
 brew services start postgresql
