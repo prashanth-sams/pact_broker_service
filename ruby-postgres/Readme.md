@@ -7,7 +7,7 @@ bundle install
 bundle exec rackup
 ```
 
-### Prerequisites
+> ### Prerequisites
 
 ```
 brew services start postgresql
