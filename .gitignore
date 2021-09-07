@@ -1,3 +1,9 @@
 .DS_Store
 */.DS_Store
 */**/.DS_Store
+kubernetes/
+helm/
+dockerized/
+terraform/
+ruby-mysql/
+ruby-*/*/pact_broker.log
